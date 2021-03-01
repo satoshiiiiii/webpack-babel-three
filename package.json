@@ -4,7 +4,7 @@
   },
   "dependencies": {
     "orbit-controls": "^1.2.4",
-    "three": "^0.112.1",
+    "three": "^0.125.0",
     "webpack-dev-server": "^3.10.3"
   },
   "devDependencies": {
